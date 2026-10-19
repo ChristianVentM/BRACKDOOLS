@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abril+Fatface&family=Alfa+Slab+One&family=Archivo+Black&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bungee&family=Bungee+Tint&family=Coiny&family=Dancing+Script:wght@400..700&family=DynaPuff:wght@400..700&family=Fascinate+Inline&family=Faster+One&family=Fjalla+One&family=Geologica:wght,CRSV@100..900,0&family=Germania+One&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Lilita+One&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Monoton&family=Nosifer&family=Orbitron:wght@400..900&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&family=Sora:wght@100..800&family=Special+Elite&family=Tilt+Prism&family=Yuyu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abril+Fatface&family=Alfa+Slab+One&family=Archivo+Black&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bungee&family=Bungee+Tint&family=Dancing+Script:wght@400..700&family=Fjalla+One&family=Geologica:wght,CRSV@100..900,0&family=Germania+One&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Lilita+One&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Orbitron:wght@400..900&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&family=Sora:wght@100..800&family=Yuyu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abril+Fatface&family=Alfa+Slab+One&family=Archivo+Black&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bungee&family=Bungee+Tint&family=Dancing+Script:wght@400..700&family=DynaPuff:wght@400..700&family=Fjalla+One&family=Geologica:wght,CRSV@100..900,0&family=Germania+One&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Lilita+One&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Orbitron:wght@400..900&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&family=Sora:wght@100..800&family=Yuyu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abril+Fatface&family=Alfa+Slab+One&family=Archivo+Black&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bungee&family=Bungee+Tint&family=Dancing+Script:wght@400..700&family=DynaPuff:wght@400..700&family=Fjalla+One&family=Geologica:wght,CRSV@100..900,0&family=Germania+One&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Lilita+One&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Monoton&family=Orbitron:wght@400..900&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&family=Sora:wght@100..800&family=Special+Elite&family=Yuyu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abril+Fatface&family=Alfa+Slab+One&family=Archivo+Black&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bungee&family=Bungee+Tint&family=Dancing+Script:wght@400..700&family=DynaPuff:wght@400..700&family=Faster+One&family=Fjalla+One&family=Geologica:wght,CRSV@100..900,0&family=Germania+One&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Lilita+One&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Monoton&family=Orbitron:wght@400..900&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&family=Sora:wght@100..800&family=Special+Elite&family=Yuyu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abril+Fatface&family=Alfa+Slab+One&family=Archivo+Black&family=Arimo:ital,wght@0,400..700;1,400..700&family=Bebas+Neue&family=Bitcount+Grid+Double+Ink:wght@100..900&family=Bungee&family=Bungee+Tint&family=Dancing+Script:wght@400..700&family=DynaPuff:wght@400..700&family=Faster+One&family=Fjalla+One&family=Geologica:wght,CRSV@100..900,0&family=Germania+One&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Lilita+One&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Monoton&family=Nosifer&family=Orbitron:wght@400..900&family=Permanent+Marker&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&family=Sora:wght@100..800&family=Special+Elite&family=Yuyu&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    height: 100%;
+}
+/*barra de navegacion*/
+.Encabezado{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    z-index: 3;
+}
+video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    
+}
+.barr-nav{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: radial-gradient(rgba(255, 255, 255, 0.397), rgba(68, 68, 68, 0.445)),rgba(92, 92, 92, 0.219);/*radial Gradient , sirve mas que todo para hacer que el difuminado empiece desde el centro, s orden es radial gradiet-difuminado de fonodo, despues del radial, rgb, fondo olido*/
+    position: fixed;
+    box-shadow: inset 0 0 0px 2px rgb(167, 134, 134),
+    inset 0 0 0px 6px rgba(0, 0, 0, 0.938),
+    0 0 5px 5px red;
+    border-radius:  0 0 15px 15px;
+    backdrop-filter: blur(10px);
+    z-index: 3;
+    
+}
+.conten-itms-nav{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    background-color: rgba(143, 143, 143, 0);
+    align-items: center;
+    justify-content: center;
+}
+.item-nav{
+    margin-left: 2%;
+    background: rgb(47, 68, 88);
+    background-image: radial-gradient(ellipse at bottom, rgba(95, 218, 255, 0.39)0%,transparent 50%),
+     radial-gradient(ellipse at top, rgba(60, 232, 255, 0.548)0%,transparent 50%); /*ellipse es para que el circulo se forme en otro lado siempre se le pone el 0% al final de rgba, y el transparente que indica cuanto es la disminucion*/
+    box-shadow: inset 0 0 0 3px rgb(150, 150, 150),
+    inset 0 0 0 5px rgb(37, 37, 37),
+    inset 0 0 0 8px rgb(153, 153, 153),
+    0 5px 10px 2px black;
+    color: #e0f2fe;
+    width: 15%;
+    height: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 9%;
+    cursor: pointer;
+    font-family: 'Orbitron', sans-serif;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.item-nav:hover{
+    background: rgb(74, 108, 139);
+    background-image: radial-gradient(ellipse at bottom, rgba(100, 219, 255, 0.74)0%,transparent 50%),
+     radial-gradient(ellipse at top, rgba(119, 239, 255, 0.89)0%,transparent 50%);
+     transform: scale(1.05);
+
+}
+.img-nav{
+    width: 120px;
+    height: 100px;
+    margin-left: 25%;
+    z-index: 3;
+    position: relative;
+    
+}
+
+
+
+/*header */
+.inf-header{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+    backdrop-filter: blur(10px);
+}
+.inf-header h1:hover, .inf-header h2:hover{
+    transform: translateY(-5px);
+}
+.inf-header h1{
+    font-family: Tilt Prism,sans-serif;
+    font-size: 7.00rem;
+    color: #ff1c28;
+    text-shadow: 0 0 60px #ff0000;
+    cursor: default;
+    transition: 0.6s;
+}
+
+.inf-header h2{
+    color: #663b15;
+    font-family: Yuyu ,sans-serif;
+    font-size: 1.80rem;
+    transition: 0.6s;
+}
+
+.inf-header a{
+    margin-top: 4%;
+    width: 400px;
+    height: 80px;
+    background: black;
+    background-image: repeating-linear-gradient(90deg, transparent 0, rgba(255, 251, 251, 0.404), transparent 250px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: DynaPuff,sans-serif;
+    color: #ffffff;
+    font-size: 2.90rem;
+    text-decoration: none;
+    border-radius: 19px;
+    box-shadow: inset 0px 0px 0 3px #ff6863,
+    inset 0 0 0 5px rgb(134, 6, 6),
+    inset 0 0 0 7px rgba(0, 0, 0, 0.603),
+    inset 0 10px 0 2px rgba(255, 255, 255, 0.123),
+    0 0 35px 10px rgb(255, 0, 0);
+    transition: 0.5s;
+}
+
+.inf-header a:hover{
+    transform: scale(1.3);
+    box-shadow: 0 0 60px #ff0808;
+    box-shadow: inset 0px 0px 0 3px #ff6863,
+    inset 0 0 0 5px rgb(134, 6, 6),
+    inset 0 0 0 7px rgba(0, 0, 0, 0.603),
+    inset 0 10px 0 2px rgba(255, 255, 255, 0.123),
+    0 0 35px 10px rgb(255, 0, 0);
+}
+
+
+/*funciones nuevas*/
+.contenedor-padre-imagen{
+    position: relative;
+}
+.contenedor-padre-imagen::after {
+  content: ""; /* Enciende el adorno invisible en el navegador */
+  position: absolute;
+  
+  /* UBICACIÓN: Las pega justo en el filo derecho del botón y las centra verticalmente */
+  left: 120%;                  /* Arranca exactamente donde termina tu botón izquierdo */
+  top: 50%;                    /* Se posiciona a la mitad de la altura */
+  transform: translateY(-50%); /* Centrado vertical milimétrico y perfecto */
+  
+  /* CALIBRACIÓN DEL LARGO: 
+     Modifica estos píxeles si necesitas que la línea viaje más lejos o más cerca 
+     para tocar el borde de tus . item-nav del menú */
+  width: 350px; 
+  height: 15%; /* Altura total que abarca el juego de hilos de luz */
+
+  /* PINTURA MATEMÁTICA: Dibujamos dos cables delgados neón separados por una coma */
+  background: 
+    linear-gradient(90deg, #ff2a2a 0%, rgba(255, 42, 42, 0.4) 80%, transparent 100%), /* Cable 1 */
+    linear-gradient(90deg, #ff2a2a 0%, rgba(255, 42, 42, 0.4) 80%, transparent 100%); /* Cable 2 */
+  
+  /* Ajustamos para que cada cable mida solo 2px de grosor y se vayan al techo y al suelo */
+  background-size: 100% 5px;
+  background-position: top, bottom;
+  background-repeat: no-repeat;
+
+  /* GLOW: El filtro que genera el resplandor rojo neón de energía en las líneas */
+  filter: drop-shadow(0 0 4px rgba(255, 42, 42, 0.9));
+  
+  z-index: 0; /* Las deja un paso atrás por si chocan con los botones */
+}
+
+
+
